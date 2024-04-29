@@ -1,0 +1,47 @@
+h1{
+    background-color: rgb(218, 189, 215);
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid black;
+    text-align: center;
+    
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(184, 204, 233);
+}
+
+a{
+    background-color: rgb(139, 190, 231);
+    color: rgb(0, 7, 5);
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 0 ;
+    margin-top: 0 ;
+    text-indent: 1.5em;
+
+}
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+}
+li{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.sumario{
+    background-color: rgb(34, 78, 107);
+    
+    float: center;
+    border: 1px solid black;
+    padding: 11px;
+
+}
+button{
+    font-size: 20px;
+    background-color: rgb(206, 131, 181);
+    border: 2px solid rgb(180, 53, 96);
+}
+footer{
+    text-align: center;
+     
+}
